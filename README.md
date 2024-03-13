@@ -17,6 +17,10 @@
 * What is the "view" rating for homes costing more than or equal to $350,000?
 
 ![image](https://github.com/jnnfrwht14/module22_sparklSQL_homesales/assets/144621532/ae43ed49-4cd4-4c04-bb0c-d723c1900aca)
+* uncached run time: 1.2440135478973389 seconds
+* cached run time: 0.9652740955352783 seconds
+* parquet run time: 0.6871325969696045 seconds
+
 
 ## References
 
